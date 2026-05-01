@@ -22,8 +22,8 @@
 ---
 
 ## 🔗 Links
-* 🎮 **Full Version:** [Play on Itch.io](YOUR_ITCH_LINK)
-* 📢 **Telegram Channel:** [Join Here](YOUR_TG_LINK) — for project updates and releases without source code access.
+* 🎮 **Full Version:** [Play on Itch.io](https://1rety1.itch.io/)
+* 📢 **Telegram Channel:** [Join Here](https://t.me/RETYGAME) — for project updates and releases without source code access.
 
 ---
 
