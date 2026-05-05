@@ -859,9 +859,6 @@ MonoBehaviour:
   - {fileID: 65461142}
   _platformPrefab: {fileID: 2152343790360357519, guid: bb6ba48085581b34fb2d11634d47f2a2, type: 3}
   _verticalOffset: 0.5
-  _coinSpawnOffset: {fileID: 0}
-  _coinPrefab: {fileID: 0}
-  _coinSpawnChance: 0
   _baseSpeed: 5
   _speedIncreaseStep: 0.01
   _platformsPerStep: 1
@@ -3298,7 +3295,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You loose
+  m_text: You lost
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a6562c6a2776b0f4c98c9cd3150c95d0, type: 2}
   m_sharedMaterial: {fileID: 5983115771974046555, guid: a6562c6a2776b0f4c98c9cd3150c95d0, type: 2}
